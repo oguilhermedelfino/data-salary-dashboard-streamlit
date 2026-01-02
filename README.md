@@ -154,7 +154,7 @@ O projeto está disponível online através do Streamlit Cloud:
 
 🔗 <strong>Acessar Dashboard:</strong>
 
-<em></em>
+<em>[https://data-salary-dashboard-app-jgn4pvwbsak748v4zodsfn.streamlit.app/](https://data-salary-dashboard-app-jgn4pvwbsak748v4zodsfn.streamlit.app/)</em>
 
 ---
 
